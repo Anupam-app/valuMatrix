@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Apr 08 12:05:48 IST 2025","Tue Apr 08 12:06:03 IST 2025","14983","","As user I should be able to login and logout with valid credentials","","Login into the application with valid credentials","","Login into the application with valid credentials",""
